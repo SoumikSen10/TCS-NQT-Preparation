@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TCS Striver Sheet/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/TCS Striver Sheet/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code Bashers/Code Bashers.iml" filepath="$PROJECT_DIR$/Code Bashers/Code Bashers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MockTest/MockTest.iml" filepath="$PROJECT_DIR$/MockTest/MockTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCS Striver Sheet/Number System/Number System.iml" filepath="$PROJECT_DIR$/TCS Striver Sheet/Number System/Number System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCS Striver Sheet/Numbers/Numbers.iml" filepath="$PROJECT_DIR$/TCS Striver Sheet/Numbers/Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prime Coding/Prime Coding.iml" filepath="$PROJECT_DIR$/Prime Coding/Prime Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCS Striver Sheet/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/TCS Striver Sheet/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCS Striver Sheet/Strings/Strings.iml" filepath="$PROJECT_DIR$/TCS Striver Sheet/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCS 2024 All Shifts/TCS 2024 All Shifts.iml" filepath="$PROJECT_DIR$/TCS 2024 All Shifts/TCS 2024 All Shifts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCS 2025 All Shifts/TCS 2025 All Shifts.iml" filepath="$PROJECT_DIR$/TCS 2025 All Shifts/TCS 2025 All Shifts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCS NQT.iml" filepath="$PROJECT_DIR$/TCS NQT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCS Striver Sheet/TCS Striver Sheet.iml" filepath="$PROJECT_DIR$/TCS Striver Sheet/TCS Striver Sheet.iml" />
+    </modules>
+  </component>
+</project>
